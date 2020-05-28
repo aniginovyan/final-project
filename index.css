@@ -1,0 +1,38 @@
+
+body {
+    background-color: white;
+}
+
+div.header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(137, 168, 249, 0.8);;
+    border-radius: 5px;
+    width: 1920px;
+    height: 970px;
+}
+div.header div.image {
+    position: absolute;
+    width: 228;
+    height: 97px;
+    left: 57px;
+    top: 42px;
+}
+div.header div.text {
+    position: absolute;
+    width: 65px;
+    height: 28px;
+    left: 683px;
+    top: 42px;
+}
+div.rectangle {
+    position: absolute;
+    background-color: #b3ccff;
+    border-radius: 5px;
+    width: 1920px;
+    height: 970px;
+    left: 0px;
+    top: 47px;
+    background: rgba(137, 168, 249, 0.8);
+}
+div.text
